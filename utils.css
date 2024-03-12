@@ -1,0 +1,29 @@
+/* .bg-black{
+    background: black;
+} */
+.mx-width{
+    margin: auto;
+}
+/* .mx-20{
+    max-width:fit-content;
+} */
+.flex{
+display: flex;
+}
+.flex-col{
+flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.row input{
+    margin: -8px;
+    padding: 15px 50px;
+    font-size: 15px;
+    width: 170px;
+    border: 1px solid darkgray;
+}
+ .row input:focus{
+    border-color: inherit;
+    box-shadow: none;
+}
